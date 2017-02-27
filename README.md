@@ -1,7 +1,8 @@
 ### Intro
 
 Uses genetic programming via OpenCL to compute semi-optimal portfolios under
-incomplete restraints.
+incomplete restraints. Somewhat intentionally, the objective function needs
+some work to be viable.
 
 ### Installation
 
